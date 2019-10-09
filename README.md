@@ -13,6 +13,11 @@ Install the package from npm by running:
 npm i @arikardnoir/vue-drip-collapse
 ```
 
+``` bash
+# install others dependencies to complate the package
+npm install -D sass-loader node-sass
+```
+
 ## Usage
 Import, register and place the component in your Vue app.
 ```html

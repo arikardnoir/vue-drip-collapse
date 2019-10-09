@@ -93,14 +93,14 @@ export default {
 *{
    font-family:'Montserrat Regular';
 }
-#app {
+/* #app {
   margin-top: 50px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   width: 360px;
   border: 1px solid #2e3553;
-}
+} */
 
 .accordion {
   width: 100%;
