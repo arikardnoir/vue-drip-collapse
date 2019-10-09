@@ -79,7 +79,7 @@ Components Property that make him cool
 
 
 ## More
-We are using Font Awesome as icons ![Access](https://fontawesome.com/v4.7.0/icons/)
+We are using Font Awesome as icons [Access](https://fontawesome.com/v4.7.0/icons/)
 
 ## Examples
 Some examples & Looks that how you could use this component
